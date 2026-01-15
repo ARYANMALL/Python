@@ -1,2 +1,4 @@
 # Python
-This is my python work
+Introduction to python world.
+<br>
+here u learn basic of python.
