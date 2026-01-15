@@ -293,5 +293,22 @@ print(None)               #The None literal represents the absence of a value.
 print(type(None))         #Type of the None literal.
 
 
+#Coding floats
+print(0.1 + 0.2)          #Adding two float literals.
+print(0.3)                 #A float literal.
+print(0.1 + 0.2 == 0.3)    #Checking for equality between the sum of two float literals and another float literal.
+
+
+
+
+"""Section Summary (Simplified)
+1. 	Literals → Fixed values in code (e.g., , ).
+2. 	Number Systems → Binary (base 2: 0,1), Octal (base 8), Hexadecimal (base 16: 0–9, A–F).
+3. 	Integers → Whole numbers, positive or negative (e.g., , ).
+4. 	Floats → Numbers with fractions (e.g., ).
+5. 	Strings → Use escape () or opposite quotes to include  or .
+6. 	Booleans →  (1) and  (0).
+7. 	None → Special literal for "no value"."""
+
 
 
