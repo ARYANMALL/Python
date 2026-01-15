@@ -291,3 +291,7 @@ print(None)               #The None literal represents the absence of a value.
 #Type checking for the None literal
 
 print(type(None))         #Type of the None literal.
+
+
+
+
