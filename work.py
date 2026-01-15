@@ -126,3 +126,28 @@ print("     *     *     "*3)
 print("     *     *     "*3)
 print("     *     *     "*3)
 print("     *******     "*3)
+
+
+# Literals – the data in itself
+print("123")
+print(123)
+print("123.45")
+print(123.45)
+print(True)
+
+#Octal and hexadecimal numbers
+print(0o123)      #Octal literal
+print(0x123)      #Hexadecimal literal
+
+#floats
+print(1.23e2)     #Scientific notation for 1.23 × 10^2
+print(1.23e-2)    #Scientific notation for 1.23 × 10^-2
+print(0.000123)   #Decimal float
+print(.123)       #Decimal float without leading zero
+print(123.)       #Decimal float without trailing zero
+print(123.0)      #Decimal float with trailing zero
+print(0.)         #Decimal float zero without trailing zero
+print(.0)         #Decimal float zero without leading zero
+print(0.0)        #Decimal float zero with leading and trailing zero
+print(True)       #Boolean literal for true
+print(False)      #Boolean literal for false
